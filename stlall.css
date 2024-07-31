@@ -1,0 +1,28 @@
+div{
+    background-color: blue;
+    height: 75px;
+    border-radius: 25px 25px 25px 25px;
+}
+h1{
+    font-size: 65px;
+    text-align: center;
+    color: black; 
+
+}
+img{
+    border-color: black;
+    height: 355px;
+    border-radius: 0 25px 0px 25px;
+}
+
+
+
+p{
+    border-bottom: 800px;
+    border-color: black;
+    border-radius: 25px 25px 25px 25px ;
+
+
+}
+
+
